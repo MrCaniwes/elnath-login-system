@@ -1,4 +1,4 @@
 # elnath-login-system
 
 
-MYSQL kullanarak Discord.js ile C# arasına bağlantı kurarak hesap sistemi.
+MYSQL kullanarak Discord.js ile C# arasında bağlantı kurarak hesap sistemi.
