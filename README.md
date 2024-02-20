@@ -9,7 +9,14 @@ MYSQL kullanarak Discord.js ile C# arasında bağlantı kurarak oluşmasını sa
 Kurulum Videosu : (Yakında)
 
 
- WinForm version :               ✅
- Console version :               ✅
- WPF version :                   ❌
- Discord.JS Bot version (main) : ❌ 
+ - WinForm version :               ✅
+ - Console version :               ✅
+ - WPF version :                   ❌
+ - Discord.JS Bot version (main) : ❌ 
+
+
+# 📄 Özellikleri 
+- [**X**] Hesap oluştur
+- [**X**] Hesap sil
+- [**X**] Kullanıcı adı değiştir
+- [**X**] Şifre değiştir
