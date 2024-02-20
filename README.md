@@ -1,7 +1,7 @@
 # ℹ️ Elnath Login System
 
 İlk projem olduğu için eksiklerimi veya görüşlerinizi belirtirseniz sevinirim.
-Discord : ebabilkusu
+**Discord : ebabilkusu**
 
 MYSQL kullanarak Discord.js ile C# arasında bağlantı kurarak oluşmasını sağlayan hesap sistemi.
 
@@ -20,3 +20,5 @@ MYSQL kullanarak Discord.js ile C# arasında bağlantı kurarak oluşmasını sa
 - [**X**] Hesap sil
 - [**X**] Kullanıcı adı değiştir
 - [**X**] Şifre değiştir
+
+- Version : 1.0
