@@ -11,7 +11,6 @@ MYSQL kullanarak Discord.js ile C# arasında bağlantı kurarak oluşmasını sa
 
  - WinForm version :               ✅
  - Console version :               ✅
- - WPF version :                   ❌
  - Discord.JS Bot version (main) : ❌ 
 
 
